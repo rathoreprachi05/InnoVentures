@@ -1,0 +1,144 @@
+
+#title{
+	background-color:lightgreen;
+	color:black;
+	padding-bottom:10px;
+}
+.header{
+	padding-top:5px;
+}
+
+
+
+.title1{
+	width:100%;
+	background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://www.goodnet.org/photos/620x0/34952_hd.jpg);
+	background-position:center;
+	padding:120px;
+	color:white;
+	background-size:cover;
+}
+.links{
+	background:url(https://i.pinimg.com/564x/62/f9/37/62f93701c957db92753312557cb69ab1.jpg);
+	background-size:cover;
+}
+.title1{
+	font-family:'Montserrat';
+	font-size:3rem;
+
+}
+
+.row{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+            }
+.row img{
+                border: 2px solid #ff3d0036;
+                border-radius: 13px;
+                box-shadow: 4px 7px 7px 0px #00000042;
+                cursor: pointer;
+                margin: 10px;
+                transition: 400ms;
+            }
+.row img:hover{
+                filter:grayscale(5);
+                transform:scale(1.03);
+            }
+.para{
+	width:100%;
+	background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(https://www.goodnet.org/photos/620x0/34952_hd.jpg);
+	font-family:'IBM Plex Serif';
+	padding:120px;
+	background-size:cover;
+	background-position:center;
+	color:white;
+	font-size:2rem;
+
+
+}
+#footer{
+	text-align:center;
+	color:blue;
+	padding-bottom:20px;
+	background-color:lightgreen;
+	padding-top:20px;
+
+}
+i{
+	margin:1%;
+}
+.para1{
+	text-align:center;
+}
+#envissues{
+	background-color:honeydew;
+	padding-bottom:10px;
+}
+.para1{
+	font-size: 1rem;
+	text-align:center;
+	line-height:1.75rem;
+}
+.head{
+	text-align:center;
+	font-family:'sans-serif';
+
+}
+body{
+	width: 1500px;
+
+}
+.container{
+        max-width: 1000px;
+        margin: auto;
+        background: #f2f2f2;
+        overflow: auto;
+        margin: 5px;
+        background: #f2f2f2;
+    }
+    .gallery{
+        margin: 40px;
+        border: 1px solid #cccccc;
+        border-radius: 13px;
+        box-shadow: 4px 7px 7px 0px #394200;
+        float: left;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-item: right;
+        object-fit: cover;
+        width: 25%;
+        height: 440px;
+        padding: 3px;
+
+    }
+    .gallery:hover{
+        transform: scale(1.03);
+    }
+    .caption{
+        padding: 40px;
+        text-align: center;
+    }
+    /**{ 
+        box-sizing: border-box;
+    }*/
+    .heading{
+        text-align: center;
+        font-size: 29px;
+    }
+    .heading2{
+        text-align: center;
+        font-size: 15px;
+    }
+.head2{
+	text-align:center;
+	font-family: 'sans-serif';
+
+    }
+
+
+
+
+
